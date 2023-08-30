@@ -1,0 +1,14 @@
+h1 {
+    color: hsl(52, 47%, 37%);
+    font-size: 24px;
+}
+
+p {
+    color: #333;
+    font-size: 16px;
+}
+
+a {
+    color: #cf682c;
+    text-decoration: none;
+}
